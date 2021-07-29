@@ -4,5 +4,6 @@
     "documentation": "https://github.com/custom-components/sensor.rpi_power",
     "dependencies": [],
     "codeowners": ["@shenxn","@toast"],
+    "version": "0.2.1",
     "requirements": []
 }
